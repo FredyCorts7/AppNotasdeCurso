@@ -1,0 +1,9 @@
+C:\Users\Fredy Cortés\source\repos\AppNotasdeCurso\AppNotasdeCurso\bin\Debug\AppNotasdeCurso.exe.config
+C:\Users\Fredy Cortés\source\repos\AppNotasdeCurso\AppNotasdeCurso\bin\Debug\AppNotasdeCurso.exe
+C:\Users\Fredy Cortés\source\repos\AppNotasdeCurso\AppNotasdeCurso\bin\Debug\AppNotasdeCurso.pdb
+C:\Users\Fredy Cortés\source\repos\AppNotasdeCurso\AppNotasdeCurso\obj\Debug\AppNotasdeCurso.csprojAssemblyReference.cache
+C:\Users\Fredy Cortés\source\repos\AppNotasdeCurso\AppNotasdeCurso\obj\Debug\AppNotasdeCurso.Form1.resources
+C:\Users\Fredy Cortés\source\repos\AppNotasdeCurso\AppNotasdeCurso\obj\Debug\AppNotasdeCurso.Properties.Resources.resources
+C:\Users\Fredy Cortés\source\repos\AppNotasdeCurso\AppNotasdeCurso\obj\Debug\AppNotasdeCurso.csproj.GenerateResource.cache
+C:\Users\Fredy Cortés\source\repos\AppNotasdeCurso\AppNotasdeCurso\obj\Debug\AppNotasdeCurso.exe
+C:\Users\Fredy Cortés\source\repos\AppNotasdeCurso\AppNotasdeCurso\obj\Debug\AppNotasdeCurso.pdb
